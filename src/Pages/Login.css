@@ -8,6 +8,18 @@ form{
     flex-direction: column;
     color:white
 }
+.error_div{
+    color: red;
+    margin: 0;
+    padding-left: .5rem;
+    text-align: left;
+}
+.success_div{
+    color: rgb(19, 229, 19);
+    margin: 0;
+    padding-left: .5rem;
+    text-align: left;
+}
 
 form>input{
 

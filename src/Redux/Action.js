@@ -141,19 +141,19 @@ export const updateTaskStatus=(data)=>(dispatch)=>{
  
 }
 
-export const  addUser=(userData)=>{
+// export const  addUser=(userData)=>{
 
 
-    API.post("\signup",userData).then((res)=>{
+//     API.post("/signup",userData).then((res)=>{
 
-        alert("Userdata has been saved ")
-        // console.log(res)
+//         alert("Userdata has been saved ")
+//         // console.log(res)
 
-    })
+//     })
 
 
 
-}
+// }
 
 
 
