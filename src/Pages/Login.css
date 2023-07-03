@@ -1,0 +1,19 @@
+
+
+form{
+
+    padding: 2rem;
+    box-shadow: brown;
+    display: flex;
+    flex-direction: column;
+    color:white
+}
+
+form>input{
+
+    padding: .5rem;
+    margin: .5rem;
+    /* color: gray; */
+
+}
+
